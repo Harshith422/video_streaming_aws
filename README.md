@@ -42,7 +42,7 @@ The system consists of:
 
 ### 2️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-repo/cloud-video-streaming.git
+git clone https://github.com/Harshith422/cloud-video-streaming.git
 cd cloud-video-streaming
 ```
 
