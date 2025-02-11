@@ -1,7 +1,3 @@
-Here’s a `README.md` file for your **Video Streaming Using Cloud Computing on AWS** project:  
-
----
-
 # Video Streaming Using Cloud Computing on AWS
 
 ## 📌 Overview  
@@ -91,10 +87,3 @@ node server.js
 🔹 **Live Streaming Integration**  
 🔹 **Video Processing & Transcoding**  
 🔹 **AI-Based Content Recommendation**  
-
-## 📄 License  
-This project is licensed under **MIT License**.
-
----
-
-This `README.md` file provides clear **setup instructions, system architecture, API details, and deployment steps**. Let me know if you need modifications! 🚀
